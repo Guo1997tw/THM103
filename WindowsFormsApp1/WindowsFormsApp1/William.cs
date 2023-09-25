@@ -9,7 +9,7 @@ namespace WindowsFormsApp1
     internal class William
     {
         public void M1() {
-            Console.WriteLine("歡迎報名Android App班");
+            Console.WriteLine("歡迎報名iOS App班");
         }
     }
 }
