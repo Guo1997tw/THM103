@@ -12,6 +12,7 @@ namespace WindowsFormsApp1
       private void FuncTest()
         {
             Console.WriteLine("轉職成功~");
+            Console.WriteLine("2nd modification");
         }
     }
 }
