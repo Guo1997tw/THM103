@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace WindowsFormsApp1
 {
-    internal class Chanel
+    internal class Ryan
     {
-        public void m1() {
-            Console.WriteLine("學習順利!!!");
+        private void FuncTest()
+        {
+            Console.WriteLine("安安");
         }
     }
 }
