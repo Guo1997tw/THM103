@@ -17,7 +17,7 @@ namespace WindowsFormsApp1
             ArvinSu s = new ArvinSu();
             s.name = "I am Arvin Su";
             Console.WriteLine(s.name);
-
+            Console.WriteLine("New:" + s.name);
         }
     }
 }
