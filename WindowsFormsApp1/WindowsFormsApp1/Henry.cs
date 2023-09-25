@@ -11,6 +11,7 @@ namespace WindowsFormsApp1
         public void m1() 
         {
             Console.WriteLine("來使用GIT了");
+            Console.WriteLine("分支測試測試");
         }
     }
 }
