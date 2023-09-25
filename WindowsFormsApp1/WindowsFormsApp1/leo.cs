@@ -10,7 +10,7 @@ namespace WindowsFormsApp1
     {
         public void M1()
         {
-            Console.WriteLine("hello大家");
+            Console.WriteLine("hello大家 一起git");
         }
     }
 }
