@@ -11,7 +11,7 @@ namespace WindowsFormsApp1
         public void m1()
         {
             Console.WriteLine("專題順利唷ㄏㄏ");
-            Console.WriteLine("歡迎報名C#班");
+            Console.WriteLine("歡迎報名C#班安安");
         }
     }
 }
