@@ -6,12 +6,11 @@ using System.Threading.Tasks;
 
 namespace WindowsFormsApp1
 {
-    internal class Jay
+    internal class Ryan
     {
-        public void M1()
+        private void FuncTest()
         {
-            Console.WriteLine("Hello world");
-            Console.WriteLine("apple");
+            Console.WriteLine("安安");
         }
     }
 }
