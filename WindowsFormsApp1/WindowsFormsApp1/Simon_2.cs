@@ -7,7 +7,7 @@ public class Class1
 
         namespace WindowsFormsApp1
 {
-    internal class Elly
+    internal class Simon_2
     {
         private void FuncTest()
         {
