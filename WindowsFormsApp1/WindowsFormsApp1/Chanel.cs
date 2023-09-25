@@ -9,7 +9,7 @@ namespace WindowsFormsApp1
     internal class Chanel
     {
         public void m1() {
-            Console.WriteLine("學習順利");
+            Console.WriteLine("學習順利!!!");
         }
     }
 }
