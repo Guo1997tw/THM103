@@ -11,6 +11,7 @@ namespace WindowsFormsApp1
         public void M1()
         {
             Console.WriteLine("Hello world");
+            Console.WriteLine("apple");
         }
     }
 }
