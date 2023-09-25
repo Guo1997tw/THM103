@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace WindowsFormsApp1
 {
-    public class Henry
+    internal class shinji
     {
-        public void m1() 
+        public void m1()
         {
-            Console.WriteLine("來使用GIT了");
-            Console.WriteLine("分支測試測試");
+            Console.WriteLine("專題順利唷ㄏㄏ");
+            Console.WriteLine("歡迎報名C#班安安安");
         }
     }
 }
