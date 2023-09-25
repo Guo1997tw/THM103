@@ -9,7 +9,7 @@ namespace WindowsFormsApp1
     internal class Class_Eric
     {
         public void Test() {
-            Console.WriteLine("hello");
+            Console.WriteLine("hello123");
         }
 
     }
