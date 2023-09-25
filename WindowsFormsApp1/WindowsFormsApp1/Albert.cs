@@ -12,6 +12,7 @@ namespace WindowsFormsApp1
       private void Test()
         {
             Console.WriteLine("Hello world");
+            Console.WriteLine("GoodJob!")
         }
     }
 }
