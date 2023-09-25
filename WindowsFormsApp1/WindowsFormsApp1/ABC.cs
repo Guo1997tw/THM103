@@ -6,12 +6,11 @@ using System.Threading.Tasks;
 
 namespace WindowsFormsApp1
 {
-    public class Henry
+    public class ABC
     {
-        public void m1() 
+        public void Fu()
         {
-            Console.WriteLine("來使用GIT了");
-            Console.WriteLine("分支測試測試");
+            Console.WriteLine("AAA");
         }
     }
 }
