@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ABC.cs" />
     <Compile Include="ArvinSu.cs" />
     <Compile Include="Brad.cs" />
     <Compile Include="Chanel.cs" />
